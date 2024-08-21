@@ -10,6 +10,9 @@ El programa consta de dos clases principales:
 
     * 'Cliente': Esta clase representa a un cliente y contiene sus datos personales y su fecha de vencimiento.
     * 'SistemaClientes': Esta clase administra la lista de clientes y proporciona funcionalidades para agregar clientes, mostrar la lista de clientes ordenada por fechas de vencimiento y generar alertas de vencimientos próximos.
+    # VISTA PREVIA DE LA EJECUCIÓN:
+    
+![python3](https://github.com/user-attachments/assets/a6fffb75-84e9-4c86-b22d-883000d2c0de)
 
 # 2. Requisitos Previos
 
